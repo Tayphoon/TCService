@@ -6,7 +6,7 @@ platform :ios, '8.0'
 
 target 'TCService' do
 
-pod 'RestKit', '~> 0.26'
+pod 'RestKit', '~> 0.26.0'
 
 end
 
